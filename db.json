@@ -1,0 +1,52 @@
+{
+  "lobbies": [
+    {
+      "id": 1,
+      "totalUsers": 10,
+      "joinedUsers": 1,
+      "rounds": 5
+    },
+    {
+      "id": 2,
+      "totalUsers": 10,
+      "joinedUsers": 1,
+      "rounds": 5
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 3
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 4
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 5
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 6
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 7
+    },
+    {
+      "totalUsers": 2,
+      "rounds": 1,
+      "joinedUsers": 1,
+      "id": 8
+    }
+  ]
+}
